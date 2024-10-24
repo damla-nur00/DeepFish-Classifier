@@ -30,3 +30,6 @@ Matplotlib & Seaborn: Sonuçların görselleştirilmesi.
 
 Lisans
 Bu proje MIT Lisansı ile lisanslanmıştır. Detaylar için LICENSE dosyasına göz atabilirsiniz.
+
+Kaggle Link
+https://www.kaggle.com/code/damlahande/akbank-derinogrenme
